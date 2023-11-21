@@ -143,7 +143,7 @@ span{
 }
 
 .select-card{
-    height: 431px;
+    /* height: 431px; */
     width: 800px;
     display: block;
     border: 1px solid #DBDBDB;
