@@ -14,4 +14,7 @@
       myDiv.style.display = 'none';
       upArrow.removeAttribute('transform');
     }
-  });
+});
+  
+  
+
